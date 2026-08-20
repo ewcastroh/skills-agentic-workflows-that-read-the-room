@@ -15,6 +15,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 safe-outputs:
   create-pull-request:
     draft: true
@@ -30,6 +31,7 @@ Keep the GitHub Info website current with concise, practical updates for develop
 1. Read `notes/mona-notes.md` and follow its editorial guidance.
 2. Use the `web-fetch` tool to read https://github.blog/latest/.
 3. Use the `web-fetch` tool to read https://github.blog/changelog/.
+4. Use the `web-fetch` tool to read https://awesome-copilot.github.com/workflows/.
 
 ## Update
 
